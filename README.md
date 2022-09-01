@@ -1,2 +1,4 @@
 # Notes
-Simple CRUD application with authorization using ReactJS and Django.
+
+Simple CRUD application using ReactJS and Django.
+![](frontend/src/assets/screen-1.png)
